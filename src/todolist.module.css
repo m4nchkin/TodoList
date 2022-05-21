@@ -1,0 +1,12 @@
+.error {
+    border: red 3px solid;
+}
+
+.errorMessage {
+    color: red;
+}
+
+.isActive {
+    background-color: aquamarine;
+    opacity: 0.5;
+}
